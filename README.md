@@ -6,9 +6,9 @@
 > "I build alone, but never in silence."  
 > **Libertas Supra Omnia** — freedom above all.
 
-🧭 I’m a solo builder exploring the edge of Web3 —  
+🧭 I’m a solo builder exploring the edge of Web3 
 from running nodes to writing smart contracts, from dusty terminal scripts to bleeding-edge chain infra.  
-No team, no noise — just me, my keyboard, and a drive to ship.
+No team, no noise just me, my keyboard, and a drive to ship.
 
 ---
 
